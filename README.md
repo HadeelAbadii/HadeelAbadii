@@ -26,7 +26,7 @@
  <img width = "50" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">&nbsp;&nbsp;
  <img width = "70" height = "40" src ="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png">&nbsp;&nbsp;
  <img width = "60" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png">&nbsp;&nbsp;
- <img width = "60" height = "40" src ="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">&nbsp;&nbsp;
+ <img width = "60" height = "60" src ="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">&nbsp;&nbsp;
 
 
 
